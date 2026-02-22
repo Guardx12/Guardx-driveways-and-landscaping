@@ -1,7 +1,7 @@
 {
-  "name": "guardx-driveways-landscaping-v2-demo",
+  "name": "guardx-driveways-landscaping-v2-compilefix",
   "private": true,
-  "version": "0.2.0",
+  "version": "0.2.1",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
